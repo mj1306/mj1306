@@ -1,6 +1,6 @@
 ## Hey there! 👋  My name is Mathew Joseph.
 
-I'm an Electrical **Engineering student at the University of Waterloo** with a passion for Machine Learning—Deep Learning and its applications to be specific.
+I'm an **Electrical Engineering student at the University of Waterloo** with a passion for Machine Learning—Deep Learning and its applications to be specific.
 
 ## 🔭 Currently working on
 
