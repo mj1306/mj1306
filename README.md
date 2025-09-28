@@ -15,7 +15,7 @@ I'm an **Electrical Engineering student at the University of Waterloo** with a p
 - 💰 Applications of **Deep Learning in finance**.
 - 🎯 Always learning new **coding languages & technologies** to achieve my goals.
 
-## 💻 Programming Languages
+## 💻 Languages
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
